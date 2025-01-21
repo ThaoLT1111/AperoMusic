@@ -143,15 +143,6 @@
             tools:ignore="RtlSymmetry">
         </EditText>
     </FrameLayout>
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/sign_up"
-        android:layout_marginTop="24dp"
-        android:backgroundTint="@color/blue"
-        android:textColor="@color/white"/>
-
-
 
 
 
